@@ -31,7 +31,7 @@ A modern, mobile-friendly web app providing **real-time predictions** and **inte
 ###  Screenshots
 
 - Home Page
-![Home Page](./Screenshots/home-page.png)
+![Home Page](./Screenshots/Home Page.png)
 - Real-Time Prediction
 - Model Comparison
 
