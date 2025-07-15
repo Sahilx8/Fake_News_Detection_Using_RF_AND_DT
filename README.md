@@ -28,11 +28,21 @@ A modern, mobile-friendly web app providing **real-time predictions** and **inte
 - Lucide React Icons
 - Vite (blazing-fast dev & builds)
 
-###  Screenshots
+##  Screenshots
 
-- Home Page
-- Real-Time Prediction
-- Model Comparison
+## Screenshots
+
+### Home Page
+![Home Page](./Screenshots/home-page.png)
+
+### Real-Time Prediction
+![Real-Time Prediction](./Screenshots/real-time-prediction.png)
+
+### Model Comparison
+![Model Comparison](./Screenshots/model-comparison.png)
+
+**See the `/Screenshots/` directory for snapshots!**
+
 
 **See the `/screenshots/` directory for snapshots!**
 
