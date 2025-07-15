@@ -30,7 +30,7 @@ A modern, mobile-friendly web app providing **real-time predictions** and **inte
 
 ###  Screenshots
 
-### Home Page
+- Home Page
 ![Home Page](./Screenshots/home-page.png)
 - Real-Time Prediction
 - Model Comparison
