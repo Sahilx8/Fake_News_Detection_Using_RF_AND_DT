@@ -43,9 +43,6 @@ A modern, mobile-friendly web app providing **real-time predictions** and **inte
 
 **See the `/Screenshots/` directory for snapshots!**
 
-
-**See the `/screenshots/` directory for snapshots!**
-
 ## Project Structure
 
 ```
